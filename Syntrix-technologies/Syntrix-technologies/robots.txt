@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://syntrix-technologies.netlify.app/sitemap.xml
